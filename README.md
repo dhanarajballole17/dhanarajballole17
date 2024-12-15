@@ -1,4 +1,5 @@
-<h1 align="center">Hey there! 👋 I'm <span style="color:#00B796;">Dhanaraj Ballole</span></h1>
+# Hey there! 👋 I'm <span style="color:#00B796;">Dhanaraj Ballole</span>
+
 <h3 align="center">🚀 Tech Enthusiast | 🎓 B.Tech in Electronics & Computer Science | 💡 Innovator</h3>
 
 <p align="center">
@@ -10,7 +11,7 @@
 ---
 
 ### 🌟 About Me
-- 🔭 **Currently Working On**: [Cine-Track](https://github.com/dhanarajballole17/Cine-Track) – a movie discovery app 📽️  
+- 🔭 **Currently Working On**: AssignmentHub
 - 🌱 **Learning**: Advanced React.js, Node.js, and AI/ML 🚀  
 - 🤝 **Looking to Collaborate**: On innovative web apps, IoT projects 🌐  
 - ⚡ **Fun Fact**: I love cricket 🏏 and coding challenges!  
@@ -47,6 +48,56 @@
 
 ---
 
+### 🚀 Featured Projects
+
+#### **1. Cine-Track** 🎬 [GitHub Repo](https://github.com/dhanarajballole17/Cine-Track)  
+*A movie tracking web app powered by OMDB API.*  
+- Search for movies, view detailed information, and explore trending films.  
+- Create and manage personalized watchlists with ease.  
+
+#### **2. Talk-Scan** 💬 [GitHub Repo](https://github.com/dhanarajballole17/Talk-Scan)  
+*OCR-based text extraction platform.*  
+- Extract text from images of documents or notes for digitization and accessibility.  
+- Provides efficient solutions for quick text retrieval.  
+
+#### **3. Easy-Math-Cal** ➗ [GitHub Repo](https://github.com/dhanarajballole17/Easy-Math-Cal)  
+*A simple yet effective calculator web app.*  
+- Perform basic arithmetic operations with a user-friendly interface.  
+- Designed for quick and accurate calculations.  
+
+#### **4. Portfolio Website** 🌐 [GitHub Repo](https://github.com/dhanarajballole17/Portfolio)  
+*A personal portfolio showcasing my projects, skills, and achievements.*  
+- Features responsive design, interactive elements, and seamless navigation.  
+- Includes sections for feedback, contact, and detailed project insights.  
+
+#### **5. Attendance with Face Scanning** 📸 : *In Development*  
+*AI-powered attendance management system.*  
+- Uses facial recognition technology for accurate and secure attendance tracking.  
+- Ideal for educational institutions and corporate environments.  
+
+#### **6. AssignmentHub** 📚 : *In Development*  
+*An MCQ-based testing platform for students and teachers.*  
+- Teachers can create tests, manage students, and analyze performance.  
+- Students access tests using a secure test ID and password.  
+
+#### **7. GSM-Based Hit and Run Detection & Traffic Rule Violation Preventor System** 🚦 : *In Development*  
+*Final year mega project.*  
+- Uses GSM and IoT technology to detect and report hit-and-run incidents.  
+- Prevents traffic rule violations by alerting authorities in real time.  
+
+---
+
+### ☕ Coffee Break
+If you enjoy my work or it has helped you in any way, consider buying me a coffee! Your support motivates me to keep creating and sharing amazing projects.
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/dhanaraj" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FDD835?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me a Coffee">
+  </a>
+</p>
+
+---
+
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dhanarajballole17&show_icons=true&theme=radical&hide_border=true" width="48%" alt="GitHub Stats" />
@@ -66,19 +117,4 @@
 
 ---
 
-### 🚀 Featured Projects
-- **Cine-Track** 🎬 [GitHub Repo](https://github.com/dhanarajballole17/Cine-Track)  
-  *A movie tracking web app powered by OMDB API.*  
-- **Smart Lawn Care Device** 🌱 [GitHub Repo](https://github.com/dhanarajballole17/Smart-Lawn-Care)  
-  *Automated lawn care with GPS navigation & obstacle detection.*  
-- **AssessmentHub** 📚 *In Progress*  
-  *An MCQ-based testing platform for students and teachers.*
-
----
-
-### ☕ Support Me
-<p align="center">
-  <a href="https://www.buymeacoffee.com/dhanarajballole17" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="250" alt="Buy Me A Coffee"/>
-  </a>
-</p>
+###
